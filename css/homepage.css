@@ -1,7 +1,10 @@
-@import url('/assets/css/reset.css');
-@import url('/assets/css/global.css');
+@import url('./reset.css');
+@import url('./global.css');
 
 body{
+    background-color: #2e4975;
+}
 
-    background-color: aqua;
+.p-menu{
+    background-color: #fff;
 }
